@@ -50,9 +50,3 @@ with open("dataset.json", "r") as f:
 
 print(data[0])
 ```
-
----
-
-## 🔒 License
-
-This dataset is released for academic and research purposes. Please refer to the `LICENSE` file for details.
