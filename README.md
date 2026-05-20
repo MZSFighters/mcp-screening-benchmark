@@ -1,6 +1,6 @@
 # MMTV-Breast Cancer Literature Screening Benchmark
 
-A high-quality, expert-validated benchmark dataset for evaluating language model performance on complex biomedical literature classification tasks. This dataset was curated and used in this [preprint](https://arxiv.org/abs/2512.06502)
+A high-quality, expert-validated benchmark dataset for evaluating language model performance on complex biomedical literature classification tasks. This dataset was curated and used in this [preprint](https://arxiv.org/abs/2512.06502).
 
 
 ## 📋 Dataset Overview
