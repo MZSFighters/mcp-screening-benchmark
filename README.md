@@ -1,5 +1,3 @@
-# mcp-screening-benchmark
-
 # MMTV Breast Cancer Literature Screening Benchmark
 
 A high-quality, expert-validated benchmark dataset for evaluating language model performance on complex biomedical literature classification tasks. This dataset was curated and used in the paper:
