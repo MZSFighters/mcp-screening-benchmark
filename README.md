@@ -5,9 +5,9 @@ A high-quality, expert-validated benchmark dataset for evaluating language model
 
 ## 📋 Dataset Overview
 
-This dataset consists of **100 medical research papers** (title–abstract pairs) with expert-adjudicated relevance labels indicating whether each paper's title and abstract contribute to understanding the potential role of **HMTV/MMTV-like viruses in causing human breast cancer**.
+This dataset consists of **100 medical research papers** (title–abstract pairs) with expert-adjudicated relevance labels indicating the relevance of each paper's title and abstract to **HMTV/MMTV-like viruses as a potential cause of human breast cancer**. 
 
-Labels were assigned through detailed, iterative expert discussions led by a specialist in infectious diseases and oncology, with ambiguous cases revisited to ensure consistency. The dataset is designed as a rigorous evaluation benchmark that requires interdisciplinary reasoning across virology, oncology, genetics, pathology, epidemiology, and immunology.
+Labels were assigned through detailed, iterative expert discussions led by a specialist in infectious diseases and oncology, with ambiguous cases revisited to ensure labelling consistency. The dataset is designed as a rigorous evaluation benchmark requiring nuanced interdisciplinary reasoning across virology, oncology, and related biomedical disciplines.
 
 ---
 
